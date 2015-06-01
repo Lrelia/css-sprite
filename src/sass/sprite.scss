@@ -1,0 +1,4 @@
+//sprite
+$icon-layout: 'smart';
+@import '../images/icons/*.png';
+@include all-icon-sprites;
